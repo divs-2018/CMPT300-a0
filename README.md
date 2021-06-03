@@ -4,7 +4,7 @@
 ## To run the program
 In directory for each program, use terminal script to 
 ### Compile
- ###` make
+``` make```
  
 ### Clean
- ###` make clean
+``` make clean```
