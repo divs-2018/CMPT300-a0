@@ -2,7 +2,7 @@
 ## String manipulation, SHSLL, SHDLL implementation in C
 
 ## To run the program
-In directory for each program, using terminal script to 
+In directory for each program, use terminal script to 
 ### Compile
  ###` make
  
