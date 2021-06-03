@@ -3,9 +3,8 @@
 
 ### To run 
 In directory for each program, using terminal script to 
-```
 # Compile
  ##` make
-
+ 
 # Clean
  ##` make clean
